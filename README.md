@@ -1,4 +1,4 @@
-***✈️ British Airways – Data Science Virtual Internship (via Forage)***
+***British Airways – Data Science Virtual Internship (via Forage)***
 
 I completed a self-paced virtual internship offered by **British Airways** in collaboration with **Forage**, focused on solving real-world data science problems in the aviation industry.
 
