@@ -1,4 +1,4 @@
-***British Airways – Data Science Virtual Internship (via Forage)***
+**British Airways – Data Science Virtual Internship (via Forage)**
 
 I completed a self-paced virtual internship offered by **British Airways** in collaboration with **Forage**, focused on solving real-world data science problems in the aviation industry.
 
@@ -26,5 +26,6 @@ seaborn,and matplotlib to support data-driven modeling.
 Model 1: Trained using top 6 features selected based on importance scores.
 
 Model 2: Trained using all available features to assess performance differences
+
 **Completion Certificate link:** 
 [devtownCertificate.pdf](https://github.com/user-attachments/files/21616683/devtownCertificate.pdf)
